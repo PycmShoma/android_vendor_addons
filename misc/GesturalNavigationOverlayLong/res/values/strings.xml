@@ -16,5 +16,5 @@
 */
 -->
 <resources>
-    <string name="navigation_bar_length_long">Long</string>
+    <string name="navigation_bar_length_long">GesturalNavigationOverlayLong</string>
 </resources>
